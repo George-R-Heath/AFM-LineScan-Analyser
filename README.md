@@ -1,5 +1,6 @@
 # AFM-LineScan-Analyser
-MATLAB code to track and analyze objects in AFM Line Scan Kymograph images
+MATLAB code to track and analyze objects in AFM Line Scan Kymograph images.
+
 This code was developed in the Scheuring-Lab and used to analyze the motions of GltPH transporters acquired by high-speed AFM line scanning. 
 
 If using this code please refer to and cite:
