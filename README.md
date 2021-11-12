@@ -9,8 +9,8 @@ Matin, T. R., Heath, G. R., Huysmans, G. H., Boudker, O., & Scheuring, S. (2020)
  
 Guide:
 
-Image preparation:
-Assemble line scanning data into a single tiff image with time in x (left to right) and space in y. If the data is saved as a line scan movie this can converted in imageJ using image rotation and montage functions or could be coded in Matlab. 
+Before running the Matlab codes please prepare kymographs as a single image:
+Image preparation: Assemble line scanning data into a single tiff image with time in x (left to right), space in y and height as intensity. If the data is saved as a line scan movie this can converted in imageJ using image rotation and montage functions or could be coded in Matlab. 
 
 Using the Matlab codes:
 To use these codes, run the following Matlab scripts in editor mode in the following order:
